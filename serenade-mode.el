@@ -26,7 +26,7 @@
 (require 'ht)
 (require 'dash)
 (require 's)
-(require 'cl)
+(require 'cl-lib)
 (require 'websocket)
 (require 'log4e)
 
